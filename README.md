@@ -29,7 +29,7 @@ When I'm not working with data, I enjoy reading books, creating content, mentori
 ## What I'm Currently Working On 
 
 - **Lima Rides Operation Analysis:** An end-to-end Power BI project analyzing four years of ride-sharing operations (2021–2024), uncovering insights into revenue growth, operational efficiency, driver performance, customer retention, and bonus eligibility through interactive dashboards and data storytelling.  
-- **US Based Candy Distributor Sales and Performance Analysis:** Transforming Raw Sales Data into Business-Critical Insights (Using Excel Only)
+- **US Based Candy Distributor Sales and Performance Analysis:** End-to-end interactive Excel Business Intelligence project transforming raw sales data into actionable insights using Power Query, Power Pivot, DAX, and interactive dashboards.
 - **Content Creation:** Teaching the importance of KPIs on a dashboard, their use, and how to implement them for data beginners.
 
 ## Currently Learning 
