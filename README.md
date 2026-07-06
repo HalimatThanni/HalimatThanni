@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Data+Story+Teller;[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -15,27 +15,29 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+**Every Dataset Has a Story. I Help Businesses Understand It.**
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Hi, I'm Halimat Thanni, a Data Analyst who helps businesses uncover opportunities, solve operational problems, and make confident decisions through data.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I specialize in Excel, Power BI, SQL, and Python, transforming raw datasets into interactive dashboards and business stories that stakeholders can actually use.
+
+When I'm not working with data, I enjoy reading books, creating content, mentoring others, and binge-watching series. I also love love those light bulb moments during analysis, when data finally reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Lima Rides Operation Analysis:** An end-to-end Power BI project analyzing four years of ride-sharing operations (2021–2024), uncovering insights into revenue growth, operational efficiency, driver performance, customer retention, and bonus eligibility through interactive dashboards and data storytelling.  
+- **US Based Candy Distributor Sales and Performance Analysis:** Transforming Raw Sales Data into Business-Critical Insights (Using Excel Only)
+- **Content Creation:** Teaching the importance of KPIs on a dashboard, their use, and how to implement them for data beginners.
 
-## 🌱 Currently Learning 
+## Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Excel VBA (Visual Basic for Applications) 
+- Excel macros
 
-## 🛠️ Technical Skillset
+## Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
