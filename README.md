@@ -17,7 +17,7 @@
 ## 🚀 About Me 
 **Every Dataset Has a Story. I Help Businesses Understand It.**
 
-Hi, I'm Halimat Thanni, a Data Analyst who helps businesses uncover opportunities, solve operational problems, and make confident decisions through data.
+Hi, I'm Halimat Sanusi, a Data Analyst who helps businesses uncover opportunities, solve operational problems, and make confident decisions through data.
 
 I specialize in Excel, Power BI, SQL, and Python, transforming raw datasets into interactive dashboards and business stories that stakeholders can actually use.
 
