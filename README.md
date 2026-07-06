@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/halimat-thanni-57453919b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://x.com/Lima_D_Analyst"><img src="https://img.shields.io/badge/My_Profile-black?style=for-the-badge&logo=X"></a>
-  <a href="https://www.tiktok.com/@halimat.thanni"><img src="https://img.shields.io/badge/Profile-Red?style=for-the-badge&logo=TikTok"></a>
+  <a href="https://www.tiktok.com/@halimat.thanni"><img src="https://img.shields.io/badge/TikTok-Profile-Red?style=for-the-badge&logo=TikTok"></a>
   <a href="mailto:halimatthanni@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
