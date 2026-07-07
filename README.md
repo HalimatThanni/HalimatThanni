@@ -24,7 +24,7 @@ I specialize in Excel, Power BI, SQL, and Python, transforming raw datasets into
 When I'm not working with data, I enjoy reading books, creating content, mentoring others, and binge-watching series. I also love love those light bulb moments during analysis, when data finally reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [ Check Out My Full Portfolio Website]([https://halimatthanni.github.io/)
+### [ Check Out My Full Portfolio Website](https://halimatthanni.github.io/)
       
 ## What I'm Currently Working On 
 
